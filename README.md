@@ -1,15 +1,12 @@
 ## Olá eu sou o Pedro Dias!! 👋
 
-Sou um desenvolvedor iniciante no mundo da programação. Estou começando minha jornada no desenvolvimento de software e estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades. 🚀
+Sou um desenvolvedor iniciante aprendendo programação e buscando aprimorar minhas habilidades todos os dias. 🚀
 
 🛠️ Tecnologias que estou aprendendo:
+
 Linguagens: Python, JavaScript
 Frameworks: React, Node.js
 Banco de Dados: MySQL
 
-👨‍💻 O que estou fazendo:
-Desenvolvendo aplicações simples para ganhar experiência prática.
-Participando de projetos de código aberto e buscando melhorar meus conhecimentos.
-
 🌱 Vamos trocar ideias!
-Estou aberto a aprender e trocar experiências com outros desenvolvedores. Se você tem dicas ou projetos interessantes, adoraria conversar!
+Estou aberto a aprender e trocar experiências. Se você tiver dicas ou projetos interessantes, ficarei feliz em conversar!
