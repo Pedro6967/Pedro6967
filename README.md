@@ -11,19 +11,25 @@ Banco de Dados: MySQL
 🌱 Vamos trocar ideias!
 Estou aberto a aprender e trocar experiências. Se você tiver dicas ou projetos interessantes, ficarei feliz em conversar!
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá  👋 ?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Sou um desenvolvedor iniciante aprendendo programação e buscando aprimorar minhas habilidades todos os dias. 🚀
+
+🛠️ Tecnologias que estou aprendendo:
+
+Linguagens: Python, JavaScript
+Frameworks: React, Node.js
+Banco de Dados: MySQL
+
+🌱 Vamos trocar ideias!
+Estou aberto a aprender e trocar experiências. Se você tiver dicas ou projetos interessantes, ficarei feliz em conversar!</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
